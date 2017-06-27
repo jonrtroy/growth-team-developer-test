@@ -49,3 +49,19 @@
 .favorites:hover {
   background:rgba(255,255,255,0.2);
 }
+
+/*Search Bar*/
+
+.search-bar {
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
+
+/*Favorite Gems*/
+
+.favorite-gems {
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
