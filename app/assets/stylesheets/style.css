@@ -1,0 +1,51 @@
+.teachable {
+  position: absolute;
+  left: 400px;
+  top: 50px;
+}
+
+.search {
+  font-family: 'Verdana', sans-serif;
+  height: 40px;
+  left: 390px;
+  padding: 10px;
+  position: absolute;
+  top: 370px;
+  width: 142px;
+}
+
+.favorites {
+  font-family: 'Verdana', sans-serif;
+  height: 40px;
+  left: 390px;
+  padding: 10px;
+  position: absolute;
+  top: 425px;
+  width: 142px;
+}
+
+.search a {
+  color: #FFF;
+  padding-left: 10px;
+}
+
+.search a:link {
+  text-decoration: none;
+}
+
+.search:hover {
+  background:rgba(255,255,255,0.2);
+}
+
+.favorites a {
+  color: #FFF;
+  padding-left: 10px;
+}
+
+.favorites a:link {
+  text-decoration: none;
+}
+
+.favorites:hover {
+  background:rgba(255,255,255,0.2);
+}
